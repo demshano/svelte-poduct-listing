@@ -1,0 +1,1 @@
+There is no product items data available in the JsonPlaceHolder API. Therefore, I utilized my own product listing data and fetched them on the product listing page. I had no experience with Svelte, so I gained some knowledge from their documentation and implemented the project. If given the opportunity to work with your company, I will surely contribute. Thank you.
